@@ -7,3 +7,5 @@ this organisation contains many repos for functionality:
 - [tulip/skill](https://github.com/tulip-mc/skill)
 - [tulip/housing](https://github.com/tulip-mc/housing)
 - [tulip/item](https://github.com/tulip-mc/item)
+- [tulip/quest](https://github.com/tulip-mc/quest)
+- [tulip/transport](https://github.com/tulip-mc/transport)
