@@ -9,3 +9,14 @@ this organisation contains many repos for functionality:
 - [tulip/item](https://github.com/tulip-mc/item)
 - [tulip/quest](https://github.com/tulip-mc/quest)
 - [tulip/transport](https://github.com/tulip-mc/transport)
+
+## version management
+
+tulip aims to utilises the latest capabilities it can, as such **tulip requires version 1.20.6**
+
+| version history | supported |
+| ------- | --------- |
+| 1.20.6  | ✅ |
+| 1.19.4  | ❌ |
+| 1.19.2  | ❌ |
+| 1.18.2  | ❌ |
