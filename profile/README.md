@@ -1,3 +1,8 @@
+# [NOTICE](https://github.com/katelyynn/tulip)
+tulip is now available as one singular repo on my personal account, this code is no longer looked at - [view the new repo](https://github.com/katelyynn/tulip)
+
+---
+
 # tulip
 
 hai :3 tulip is a vanilla rpg-esc, vaguely hypixel skyblock-inspired, work-in-progress experience in minecraft. it features professions, leveling systems, xp boosters, quests, villager shops, and even more is planned for the future :3
